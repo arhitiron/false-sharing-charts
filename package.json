@@ -15,7 +15,7 @@
     "flow-bin": "^0.120.1",
     "graphiql": "^0.17.5",
     "graphiql-explorer": "^0.4.2",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "graphql": "^14.1.1",
     "history": "^4.10.1",
     "moment": "^2.24.0",
