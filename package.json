@@ -13,7 +13,7 @@
     "@material-ui/styles": "^4.9.6",
     "clsx": "latest",
     "flow-bin": "^0.120.1",
-    "graphiql": "^0.17.5",
+    "graphiql": "^1.4.7",
     "graphiql-explorer": "^0.4.2",
     "chart.js": "^2.9.3",
     "graphql": "^14.1.1",
